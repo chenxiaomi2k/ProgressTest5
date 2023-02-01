@@ -1,0 +1,15 @@
+C:\Users\HaiTL\source\repos\ProgressTest5\bin\Debug\net6.0\ProgressTest5.exe
+C:\Users\HaiTL\source\repos\ProgressTest5\bin\Debug\net6.0\ProgressTest5.deps.json
+C:\Users\HaiTL\source\repos\ProgressTest5\bin\Debug\net6.0\ProgressTest5.runtimeconfig.json
+C:\Users\HaiTL\source\repos\ProgressTest5\bin\Debug\net6.0\ProgressTest5.dll
+C:\Users\HaiTL\source\repos\ProgressTest5\bin\Debug\net6.0\ProgressTest5.pdb
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ProgressTest5.csproj.AssemblyReference.cache
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ProgressTest5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ProgressTest5.AssemblyInfoInputs.cache
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ProgressTest5.AssemblyInfo.cs
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ProgressTest5.csproj.CoreCompileInputs.cache
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ProgressTest5.dll
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\refint\ProgressTest5.dll
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ProgressTest5.pdb
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ProgressTest5.genruntimeconfig.cache
+C:\Users\HaiTL\source\repos\ProgressTest5\obj\Debug\net6.0\ref\ProgressTest5.dll
